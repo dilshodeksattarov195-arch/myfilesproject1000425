@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authrender",
+        "uuid": 1187450,
+        "checksum": "yzrrtc"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
